@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/googlelogin/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/googlelogin/static/js/main.97a0ff4a.chunk.js",
-    "main.js.map": "/googlelogin/static/js/main.97a0ff4a.chunk.js.map",
+    "main.css": "/googlelogin/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/googlelogin/static/js/main.753a13e7.chunk.js",
+    "main.js.map": "/googlelogin/static/js/main.753a13e7.chunk.js.map",
     "runtime-main.js": "/googlelogin/static/js/runtime-main.b0f229b6.js",
     "runtime-main.js.map": "/googlelogin/static/js/runtime-main.b0f229b6.js.map",
     "static/js/2.485ed1f1.chunk.js": "/googlelogin/static/js/2.485ed1f1.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.0c185c85.chunk.js": "/googlelogin/static/js/3.0c185c85.chunk.js",
     "static/js/3.0c185c85.chunk.js.map": "/googlelogin/static/js/3.0c185c85.chunk.js.map",
     "index.html": "/googlelogin/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/googlelogin/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/googlelogin/static/css/main.2ae47eeb.chunk.css.map",
     "static/js/2.485ed1f1.chunk.js.LICENSE.txt": "/googlelogin/static/js/2.485ed1f1.chunk.js.LICENSE.txt",
     "static/media/logo.aef43590.svg": "/googlelogin/static/media/logo.aef43590.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b0f229b6.js",
     "static/js/2.485ed1f1.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.97a0ff4a.chunk.js"
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.753a13e7.chunk.js"
   ]
 }
